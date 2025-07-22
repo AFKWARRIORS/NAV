@@ -515,7 +515,7 @@ setDefaultTab("main")
 
 -- Configurações do Label e Texto
 local TEXT_LABEL_ID = "SOULE_SCRIPTS_BOT_V2_0_LABEL"
-local TEXTO_COMPLETO = "Custom Celso v3.0"
+local TEXTO_COMPLETO = "Custom Soule v3.0"
 local FONT_NAME = "verdana-11px-rounded"
 
 -- Cores principais do preenchimento
